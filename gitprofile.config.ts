@@ -46,7 +46,7 @@ const CONFIG = {
             "Developed web applications for Moduit's mutual fund purchasing platform, ensuring smooth integration with backend systems.",
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://www.reksa.moduit.id',
+          link: 'https://reksa.moduit.id/idn/sign_in',
         },
         {
           title: 'Moduit Advisor Web Apps',
@@ -54,7 +54,7 @@ const CONFIG = {
             'Developed and upgraded the advisor web application for Moduit, delivering new features and improving usability.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://www.advisor.moduit.id',
+          link: 'https://moduit.id/id/advisor/register',
         },
         {
           title: 'Advotics Dashboard',
