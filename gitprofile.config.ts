@@ -33,22 +33,6 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'BRI Insurance Web Project',
-          description:
-            'Developed a web project for BRI Insurance, ensuring a smooth and intuitive user experience for insurance customers.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://www.brins.co.id',
-        },
-        {
-          title: 'Tokio Marine Insurance Web Apps',
-          description:
-            'Developed insurance web applications for Tokio Marine, focusing on performance optimization and user data security.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://tokiomarine.com/id/id',
-        },
-        {
           title: 'Dusdusan E-Commerce Web Apps',
           description:
             'Created e-commerce mobile web applications for Dusdusan, improving the overall user experience and adding new features.',
@@ -351,7 +335,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dim',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
