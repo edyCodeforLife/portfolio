@@ -184,7 +184,7 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
                   value={profile.location}
                 />
               )}
-              {/* {profile.company && (
+              {profile.company && (
                 <OrganizationItem
                   icon={<FaBuilding />}
                   title="Organization:"
@@ -195,7 +195,7 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
                       : undefined
                   }
                 />
-              )} */}
+              )}
               <ListItem
                 icon={<AiFillGithub />}
                 title="GitHub:"
